@@ -5,6 +5,7 @@ x = verbs[['frequency']]
 x.dec.lin=sort(x,decreasing=TRUE)
 x.dec.log=log(x.dec.lin)
 x.dec.log.norm = 1.0-x.dec.log/min(x.dec.log)
+x.dec.log.norm = x.dec.log.norm/sum(x.dec.log.norm)
 
 png('/Users/rbarbera/Developer/freq-verbs/freq-verb-linear.png',width=600,height=400)
 plot(x.dec.lin,

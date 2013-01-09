@@ -46,8 +46,7 @@ def verbsPlistToMarkdownTopPTable(verbs,topNumber):
 	for v in verbs:
 		freqList.append("%.6f|%s"%(v['frequency'],v['simple']))
 	
-	freqList.sort()
-	freqList.reverse()
+	freqList.sort(reverse=True)
 	table=["|Verb                  |     Freq |"]
 	table.append("|:--------------------:|---------:|")
 	for i in range(0,topNumber):
