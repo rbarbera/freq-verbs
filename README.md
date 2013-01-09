@@ -28,7 +28,13 @@ As we intend to use a scroller to select the number of verbs in function of freq
 
 ![Log Distribution](https://raw.github.com/rbarbera/freq-verbs/master/freq-verb-log.png)
 
-This will be the data that we use in owr [project][1]
+This will be the data that we use in owr [project][1]. The adventage of using the frecuency data to select the number of verbs instead of only sort the data by frecuency and select the number of verbs in a linear way can be see with a pair of histograms
+
+![Linear Histogram](https://raw.github.com/rbarbera/freq-verbs/master/hist-idx.png)
+
+The number of verbs in each bin are constant. But natural languages are diferents. There are a small number of high frequency use, a small number of low frequency use and a lot of medium frequency. This can be see clearly on the log histogram
+
+![Linear Histogram](https://raw.github.com/rbarbera/freq-verbs/master/hist-log.png)
 
 [1]:https://github.com/rbarbera/irregularverbs
 [2]:https://github.com/jdunck/python-unicodecsv

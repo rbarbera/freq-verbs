@@ -16,6 +16,7 @@ plot(x.dec.lin,
 grid()
 lines(x.dec.lin,col='red')
 dev.off()
+
 png('/Users/rbarbera/Developer/freq-verbs/freq-verb-log.png',width=600,height=400)
 plot(x.dec.log.norm,
 	main="Verbs's use frequency (Invoke IT data)",
@@ -24,4 +25,18 @@ plot(x.dec.log.norm,
 	type='n')
 grid()
 lines(x.dec.log.norm,col='red')
+dev.off()
+
+png('/Users/rbarbera/Developer/freq-verbs/hist-log.png',width=600,height=400)
+hist(x.dec.log.norm,
+	main="Number of verbs vs Frequency (log-norm)",
+	xlab="freq (normalized sum(freq)=1)",
+	ylab="number of verbs")
+dev.off()
+	
+png('/Users/rbarbera/Developer/freq-verbs/hist-idx.png',width=600,height=400)
+hist(seq(length(x.dec.log.norm)),
+	main="Number of verbs selected by index",
+	xlab="index",
+	ylab="number of verbs")
 dev.off()
