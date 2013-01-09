@@ -4,7 +4,7 @@
 <array>
 	<dict>
 		<key>frequency</key>
-		<real>0.20758804617713422</real>
+		<real>0.0029959878282956095</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -18,7 +18,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.33478740229972015</real>
+		<real>0.0048317762069054505</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -32,7 +32,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.8814739972854753</real>
+		<real>0.012721760310672715</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -46,7 +46,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.5146226175423493</real>
+		<real>0.007427224865380203</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -60,7 +60,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.5086052541386114</real>
+		<real>0.007340380040506968</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -74,7 +74,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.5330978571010503</real>
+		<real>0.0076938663886376765</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -88,7 +88,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.44141418725142245</real>
+		<real>0.006370653593000244</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -102,7 +102,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.33257308389770257</real>
+		<real>0.004799818340821222</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -116,7 +116,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.5421744762075991</real>
+		<real>0.007824863528723918</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -130,7 +130,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.3709800923701846</real>
+		<real>0.005354122560278137</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -144,7 +144,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.3468021758695661</real>
+		<real>0.005005177884111232</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -158,7 +158,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.5258359558478276</real>
+		<real>0.007589059931013546</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -172,7 +172,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.2765976273036034</real>
+		<real>0.003991959749117386</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -186,7 +186,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.44884638205436667</real>
+		<real>0.006477917790420083</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -200,7 +200,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.5294484078529798</real>
+		<real>0.007641196180846076</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -214,7 +214,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.27894973961837144</real>
+		<real>0.00402590630815873</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -228,7 +228,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.5825365429249586</real>
+		<real>0.008407383875328463</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -242,7 +242,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.32072300554278776</real>
+		<real>0.004628793606162947</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -256,7 +256,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.45783797522790415</real>
+		<real>0.006607687804642951</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -270,7 +270,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.4526015127391676</real>
+		<real>0.006532113231980928</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -284,7 +284,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.3312423593560442</real>
+		<real>0.004780612829699348</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -298,7 +298,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.5280575291787335</real>
+		<real>0.007621122502927638</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -312,7 +312,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.404538941759906</real>
+		<real>0.005838456346133122</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -326,7 +326,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.5192145305623915</real>
+		<real>0.007493497060576355</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -340,7 +340,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.7693884724362813</real>
+		<real>0.011104100361747875</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -354,7 +354,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.465735318433275</real>
+		<real>0.0067216651966695365</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -368,7 +368,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.5812964085705961</real>
+		<real>0.008389485795455643</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -382,7 +382,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.4286887212263649</real>
+		<real>0.006186994938166481</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -396,7 +396,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.17097953212922945</real>
+		<real>0.002467640148747997</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -410,7 +410,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.26109760352397293</real>
+		<real>0.0037682576456617755</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -424,7 +424,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.4899561996269616</real>
+		<real>0.007071229955253753</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -438,7 +438,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.3824530150614994</real>
+		<real>0.0055197040442371195</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -452,7 +452,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.788606486244423</real>
+		<real>0.01138146187901019</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -466,7 +466,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.39875852546662294</real>
+		<real>0.005755031230014537</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -480,7 +480,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.4784944109077808</real>
+		<real>0.006905809160918322</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -494,7 +494,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.5336859595089989</real>
+		<real>0.007702354101145466</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -508,7 +508,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.47493140133289136</real>
+		<real>0.006854386482613615</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -522,7 +522,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.5247508373584471</real>
+		<real>0.007573399097712632</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -536,7 +536,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.4924695770660673</real>
+		<real>0.0071075039525004356</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -550,7 +550,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.42091858031244656</real>
+		<real>0.006074853376882277</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -564,7 +564,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.5918127501123913</real>
+		<real>0.008541261544770867</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -578,7 +578,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.5105139215995664</real>
+		<real>0.00736792663862084</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -592,7 +592,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.6436640940577492</real>
+		<real>0.009289599410085642</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -606,7 +606,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.3127225514817553</real>
+		<real>0.004513328079948405</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -620,7 +620,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.4386772614725566</real>
+		<real>0.0063311532630369585</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -634,7 +634,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.3185918292881603</real>
+		<real>0.004598035678447937</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -648,7 +648,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.5436765377436031</real>
+		<real>0.007846541839022092</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -662,7 +662,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.4427827013067466</real>
+		<real>0.006390404496427043</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -676,7 +676,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.3650501847481049</real>
+		<real>0.005268539929746953</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -690,7 +690,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.7902019261190869</real>
+		<real>0.011404487860194058</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -704,7 +704,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.6443837819812155</real>
+		<real>0.009299986213654458</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -718,7 +718,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.7362849596972703</real>
+		<real>0.01062633816365253</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -732,7 +732,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.4506053369791986</real>
+		<real>0.006503303681575012</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -746,7 +746,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.46508923034321525</real>
+		<real>0.006712340613248322</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -760,7 +760,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.4783651353828071</real>
+		<real>0.006903943408499287</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -774,7 +774,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.7881704043475765</real>
+		<real>0.011375168183013951</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -788,7 +788,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.6290668574335057</real>
+		<real>0.009078926666359025</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -802,7 +802,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.4442056697774812</real>
+		<real>0.006410941306213921</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -816,7 +816,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.5853218063828098</real>
+		<real>0.00844758183263858</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -830,7 +830,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.5539990661003176</real>
+		<real>0.00799552040442351</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -844,7 +844,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.5776708390414562</real>
+		<real>0.008337160228642062</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -858,7 +858,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.5991202860096556</real>
+		<real>0.008646726618536991</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -872,7 +872,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.7457451352048219</real>
+		<real>0.010762870932258967</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -886,7 +886,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.22742752343423933</real>
+		<real>0.0032823185370075914</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -900,7 +900,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.2037084376489513</real>
+		<real>0.0029399958762394212</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -914,7 +914,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.442103872865095</real>
+		<real>0.00638060739208437</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -928,7 +928,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.4501793450847944</real>
+		<real>0.006497155608243764</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -942,7 +942,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.25365453711420116</real>
+		<real>0.0036608365451719902</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -956,7 +956,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.22255948816098226</real>
+		<real>0.0032120612428378353</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -970,7 +970,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.49857338916183935</real>
+		<real>0.0071955964370240015</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -984,7 +984,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.6527930830403865</real>
+		<real>0.009421352371685792</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -998,7 +998,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.3276997701783595</real>
+		<real>0.004729484866155925</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -1012,7 +1012,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.7154117489991767</real>
+		<real>0.010325088229754234</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -1026,7 +1026,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.4762060766300751</real>
+		<real>0.00687278307020967</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -1040,7 +1040,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.4830762996078256</real>
+		<real>0.0069719366814029364</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -1054,7 +1054,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.586248522808835</real>
+		<real>0.00846095654849425</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -1068,7 +1068,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.6790064046257156</real>
+		<real>0.009799672770452062</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -1082,7 +1082,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.6245489720650794</real>
+		<real>0.009013722865741864</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -1096,7 +1096,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.583570165163196</real>
+		<real>0.00842230149559535</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -1110,7 +1110,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.43323274201574624</real>
+		<real>0.0062525759348915615</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -1124,7 +1124,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.3175758285362307</real>
+		<real>0.004583372378020112</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -1138,7 +1138,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.5485952734852344</real>
+		<real>0.00791753086119322</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -1152,7 +1152,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.676079689034635</real>
+		<real>0.009757433323387377</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -1166,7 +1166,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.5831938543626104</real>
+		<real>0.008416870438273057</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -1180,7 +1180,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.44511163462109327</real>
+		<real>0.006424016527520303</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -1194,7 +1194,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.42701635083482226</real>
+		<real>0.006162858667173359</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -1208,7 +1208,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.4125167822876369</real>
+		<real>0.005953595505431197</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -1222,7 +1222,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.5905998380734592</real>
+		<real>0.008523756347470955</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -1236,7 +1236,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.7153694769092667</real>
+		<real>0.010324478143243093</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -1250,7 +1250,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.7065209627245608</real>
+		<real>0.010196773098159431</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -1264,7 +1264,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.3475400236994852</real>
+		<real>0.005015826778198736</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -1278,7 +1278,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.4855968511386022</real>
+		<real>0.007008314217806718</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -1292,7 +1292,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.5512173620792629</real>
+		<real>0.007955373818228032</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -1306,7 +1306,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.5760083058459936</real>
+		<real>0.00831316593171856</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -1320,7 +1320,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.24666936041733423</real>
+		<real>0.0035600238791842287</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -1334,7 +1334,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.3694579926374415</real>
+		<real>0.0053321550512778395</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -1348,7 +1348,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.24071588329017024</real>
+		<real>0.0034741010847965416</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -1362,7 +1362,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.31745684299474286</real>
+		<real>0.004581655134466809</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -1376,7 +1376,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.5678830720427066</real>
+		<real>0.008195899537891953</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -1390,7 +1390,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.5592228711078191</real>
+		<real>0.008070912299612454</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -1404,7 +1404,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.24207788434740662</real>
+		<real>0.0034937579902145155</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -1418,7 +1418,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.597296537849469</real>
+		<real>0.008620405607330338</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -1432,7 +1432,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.4481345404625585</real>
+		<real>0.006467644228025686</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -1446,7 +1446,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.3117818767007936</real>
+		<real>0.004499751911926952</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -1460,7 +1460,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.5308562165312369</real>
+		<real>0.007661514198874092</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -1474,7 +1474,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.5221810887765581</real>
+		<real>0.007536311531184115</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -1488,7 +1488,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.2727252207883065</real>
+		<real>0.003936071739187651</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -1502,7 +1502,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.41211891433818126</real>
+		<real>0.005947853327325137</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -1516,7 +1516,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.18744474696116986</real>
+		<real>0.002705272248164131</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -1530,7 +1530,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.5147765638553385</real>
+		<real>0.007429446675780274</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -1544,7 +1544,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.3666323856635033</real>
+		<real>0.005291374841350711</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -1558,7 +1558,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.31147439046987213</real>
+		<real>0.004495314156371302</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -1572,7 +1572,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.4871435631201452</real>
+		<real>0.0070306369399283355</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -1586,7 +1586,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.42274796423519434</real>
+		<real>0.00610125572550863</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -1600,7 +1600,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.2819071417728022</real>
+		<real>0.004068588635109721</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -1614,7 +1614,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.31370218688328944</real>
+		<real>0.00452746654212488</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -1628,7 +1628,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.4389831773426871</real>
+		<real>0.006335568354562081</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -1642,7 +1642,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.34447887962598733</real>
+		<real>0.004971647209318197</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -1656,7 +1656,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.429584741665332</real>
+		<real>0.006199926638129391</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -1670,7 +1670,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.357369180965871</real>
+		<real>0.005157684828673218</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -1684,7 +1684,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.5114190793127535</real>
+		<real>0.007380990211120975</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -1698,7 +1698,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.452470562749136</real>
+		<real>0.0065302233130598965</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -1712,7 +1712,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.4875466831207045</real>
+		<real>0.007036454917587741</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -1726,7 +1726,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.2348207127324583</real>
+		<real>0.0033890197924876346</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -1740,7 +1740,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.2774287944009374</real>
+		<real>0.004003955461552425</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -1754,7 +1754,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.13733821019839787</real>
+		<real>0.0019821160885304706</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -1768,7 +1768,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.41070681558816224</real>
+		<real>0.005927473393387138</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -1782,7 +1782,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.4378469433269684</real>
+		<real>0.006319169802989011</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -1796,7 +1796,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.38370629888833396</real>
+		<real>0.005537791902183391</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -1810,7 +1810,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.3010083999791625</real>
+		<real>0.0043442650921372864</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -1824,7 +1824,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.3039403369068371</real>
+		<real>0.004386579895472099</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -1838,7 +1838,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.3485777666009109</real>
+		<real>0.005030803869408113</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -1852,7 +1852,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.3208143837002976</real>
+		<real>0.004630112409690959</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -1866,7 +1866,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.6784991242386313</real>
+		<real>0.009792351511385244</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -1880,7 +1880,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.4730646520118229</real>
+		<real>0.00682744486267261</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -1894,7 +1894,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.3700137374667819</real>
+		<real>0.005340175767186121</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -1908,7 +1908,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.6956306663246636</real>
+		<real>0.010039600293359378</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -1922,7 +1922,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.715892837710747</real>
+		<real>0.010332031480826433</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -1936,7 +1936,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.4723225455847647</real>
+		<real>0.006816734506928575</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -1950,7 +1950,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.26408611781486</real>
+		<real>0.0038113889945282954</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -1964,7 +1964,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.15619399381652066</real>
+		<real>0.002254249765074964</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -1978,7 +1978,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.5712352798944993</real>
+		<real>0.008244279847388764</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -1992,7 +1992,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.1323829001292297</real>
+		<real>0.001910599212072226</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -2006,7 +2006,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.13454447755033372</real>
+		<real>0.0019417959007197996</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -2020,7 +2020,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.45688485661733047</real>
+		<real>0.0065939320426480425</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -2034,7 +2034,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.44397755849169107</real>
+		<real>0.006407649119364487</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -2048,7 +2048,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.17097953212922945</real>
+		<real>0.002467640148747997</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -2062,7 +2062,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.2546566377966981</real>
+		<real>0.0036752992346320845</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -2076,7 +2076,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.4419095666120916</real>
+		<real>0.0063778030920310655</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -2090,7 +2090,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.5157019398408814</real>
+		<real>0.007442802045900757</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -2104,7 +2104,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.43993485371747154</real>
+		<real>0.006349303301674102</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -2118,7 +2118,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.2571334636852963</real>
+		<real>0.0037110457063182036</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -2132,7 +2132,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.12031309934595746</real>
+		<real>0.0017364033616725338</real>
 		<key>level</key>
 		<integer>2</integer>
 		<key>participle</key>
@@ -2146,7 +2146,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.5072952026294597</real>
+		<real>0.007321472890272944</real>
 		<key>level</key>
 		<integer>1</integer>
 		<key>participle</key>
@@ -2174,7 +2174,7 @@
 	</dict>
 	<dict>
 		<key>frequency</key>
-		<real>0.08215453746511814</real>
+		<real>0.0011856848157563188</real>
 		<key>level</key>
 		<integer>3</integer>
 		<key>participle</key>

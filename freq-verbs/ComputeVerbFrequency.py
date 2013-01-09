@@ -10,10 +10,12 @@ import math
 #	edit 'verbs.csv' with Excel, Numbers, etc
 #	call csvToVerbsPlist('verbs.csv','verbs-edited.plist')
 
-def	verbsPlistToCsv(plistPath, csvPath):
+def	verbsPlistToCsv(plistPath, csvPath,header=False):
 	plist = plistlib.readPlist(plistPath)
 	outFile = open(csvPath,'w')
 	csvWriter = unicodecsv.writer(outFile,encoding='utf-8',delimiter=';')
+	if (header):
+		csvWriter.writerow(['level','simple','participle','past','frequency','translation'])
 	for item in plist:
 		values = item.values()
 		csvWriter.writerow(values)
@@ -86,7 +88,7 @@ for verb in verbs:
 plistlib.writePlist(verbs,'verbs-freq.plist')
 
 # Save also a csv copy to statistical analysis
-verbsPlistToCsv('verbs-freq.plist','verbs-freq.csv')
+verbsPlistToCsv('verbs-freq.plist','verbs-freq.csv',header=True)
 
 # Compute log distribution and normalize it
 for verb in verbs:
@@ -96,8 +98,12 @@ minFreq = reduce(lambda x,y: min(x,y['frequency']),verbs,1)
 for verb in verbs:
 	verb['frequency'] = 1.0-verb['frequency']/minFreq
 
+total = reduce(lambda x,y: x+y['frequency'] ,verbs,0)
+for verb in verbs:
+	verb['frequency'] = 1.0*verb['frequency']/total
+
 # Save a new verbs.plist with the frequency of use
 plistlib.writePlist(verbs,'verbs-freq-log.plist')
 
 # Save also a csv copy to statistical analysis
-verbsPlistToCsv('verbs-freq-log.plist','verbs-freq-log.csv')
+verbsPlistToCsv('verbs-freq-log.plist','verbs-freq-log.csv',header=True)
