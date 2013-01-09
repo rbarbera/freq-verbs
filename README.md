@@ -3,6 +3,10 @@ Compute frequency of use of irregular engish verbs. Data set for ["A list of ver
 
 The fequency word data comes from <http://invokeit.wordpress.com/frequency-word-lists/>
 
+Rafa Barberá
+* <http://github.com/rbarbera>
+* <http://twitter.com/rbarbera>
+
 ## Dependencies
 
 * [unicodecsv][2] for writing CSV files with UTF-8 encoded strings
