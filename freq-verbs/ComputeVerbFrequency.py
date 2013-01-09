@@ -1,6 +1,7 @@
 import fileinput
 import plistlib
 import unicodecsv
+import math
 
 
 # Utility functions used to convert from/to a CSV to edit. 
@@ -26,6 +27,32 @@ def csvToVerbsPlist(csvPath, plistPath):
         plist.append({'simple':row[0].lower(),'past':row[1].lower(),
         'translation':row[2].lower(),'participle':row[3].lower(),'level':int(row[4])})
     plistlib.writePlist(plist,plistPath)
+
+# Utility function to generate the README.md table
+# for the 5 more frequently used verbs the function returns
+#
+# |Verb                  |     Freq |
+# |:--------------------:|---------:|
+# | be/am/are/is         | 0.225649 |
+# | get                  | 0.071703 |
+# | do/does              | 0.070281 |
+# | have                 | 0.069897 |
+# | come                 | 0.055208 |
+
+def verbsPlistToMarkdownTopPTable(verbs,topNumber):
+	freqList = []
+	for v in verbs:
+		freqList.append("%.6f|%s"%(v['frequency'],v['simple']))
+	
+	freqList.sort()
+	freqList.reverse()
+	table=["|Verb                  |     Freq |"]
+	table.append("|:--------------------:|---------:|")
+	for i in range(0,topNumber):
+		row = freqList[i].split('|');
+		table.append("| %-20s | %s |"%(row[1],row[0]))
+	
+	return '\n'.join(table)
 		
 
 # Read 50K word list with use count
@@ -54,10 +81,23 @@ total = reduce(lambda x,y: x+y['useCount'] ,verbs,0)
 for verb in verbs:
 	verb.update({'frequency': 1.0*verb['useCount']/total})
 	del verb['useCount'];
-
+	
 # Save a new verbs.plist with the frequency of use
 plistlib.writePlist(verbs,'verbs-freq.plist')
 
 # Save also a csv copy to statistical analysis
 verbsPlistToCsv('verbs-freq.plist','verbs-freq.csv')
 
+# Compute log distribution and normalize it
+for verb in verbs:
+	verb['frequency'] = math.log(verb['frequency'])
+	
+minFreq = reduce(lambda x,y: min(x,y['frequency']),verbs,1)
+for verb in verbs:
+	verb['frequency'] = 1.0-verb['frequency']/minFreq
+
+# Save a new verbs.plist with the frequency of use
+plistlib.writePlist(verbs,'verbs-freq-log.plist')
+
+# Save also a csv copy to statistical analysis
+verbsPlistToCsv('verbs-freq-log.plist','verbs-freq-log.csv')
