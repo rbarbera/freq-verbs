@@ -22,11 +22,11 @@ The 5 more frequently used verbs are:
 
 As you can see the verb **To Be** is very predominant, perhaps to much. We can explore the distribution to see how are distributed all the sample
 
-![Linear Distribution](freq-verb-linear.png)
+![Linear Distribution](https://raw.github.com/rbarbera/freq-verbs/master/freq-verb-linear.png)
 
 As we intend to use a scroller to select the number of verbs in function of frequency of use, this kind of stepped distribution isnt' very usefull. Usually in this cases we use a logaritmic one (normalized between 0.0 and 1.0)
 
-![Log Distribution](freq-verb-log.png)
+![Log Distribution](https://raw.github.com/rbarbera/freq-verbs/master/freq-verb-log.png)
 
 This will be the data that we use in owr [project][1]
 
