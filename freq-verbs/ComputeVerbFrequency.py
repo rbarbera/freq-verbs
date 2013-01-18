@@ -15,7 +15,7 @@ def	verbsPlistToCsv(plistPath, csvPath,header=False):
 	outFile = open(csvPath,'w')
 	csvWriter = unicodecsv.writer(outFile,encoding='utf-8',delimiter=';')
 	if (header):
-		csvWriter.writerow(['level','simple','participle','past','frequency','translation'])
+		csvWriter.writerow(['hint','simple','participle','past','frequency','translation'])
 	for item in plist:
 		values = item.values()
 		csvWriter.writerow(values)
@@ -54,55 +54,95 @@ def verbsPlistToMarkdownTopPTable(verbs,topNumber):
 		table.append("| %-20s | %s |"%(row[1],row[0]))
 	
 	return '\n'.join(table)
+
+def trimVerbsHints():
+	inFile = open('verbs-hints.txt','r')
+	outFile = open('verbs-hints-stripped.txt','w')
+	for line in inFile:
+		outFile.write("%s\n"%line.strip())
+	outFile.close()
+	
+def loadHints():
+	inFile = open('verbs-hints-stripped.txt','r')
+	hints={}
+	for line in inFile:
+		if line[0]=='#':
+			continue
+		if line.strip().isdigit():
+			vector = [];
+			hints.update({line.strip():vector})
+		else:
+			line = line.strip()
+			line = line.split(' ')[0]
+			vector.append(line.strip())
+	
+	tableHints={}
+	for hint,verbs in hints.items():
+		for verb in verbs:
+			tableHints.update({verb:int(hint)})
+	return tableHints
+	
 		
-
-# Read 50K word list with use count
-freq50K = {}
-for line in fileinput.input('en_50K.txt'):
-	# we need to remove the original EOL
-	line = line[:len(line)-2].split(' ')
-	freq50K.update({line[0]:int(line[1])})
-
-
-# Read verbs.plist from "A list of verbs" and compute use count for all tenses
-# We assume that the verbs with multiple forms are in the form "do/does"
-verbs = plistlib.readPlist('verbs-edited.plist')
-for verb in verbs:
-	# We join all the verbal forms to construct a string like this:
-	# was/were/be/am/are/is/been
-	testValues = '/'.join([verb['simple'],verb['past'],verb['participle']])
-	count = 0;
-	# Now we look for each word and add the use count
-	for tense in testValues.split('/'):
-		count += freq50K.get(tense,0);
-	verb.update({'useCount':count})
+def computeVerbsFrequency():
+	# Read 50K word list with use count
+	freq50K = {}
+	for line in fileinput.input('en_50K.txt'):
+		# we need to remove the original EOL
+		line = line[:len(line)-2].split(' ')
+		freq50K.update({line[0]:int(line[1])})
 	
-# Compute frequencies
-total = reduce(lambda x,y: x+y['useCount'] ,verbs,0)
-for verb in verbs:
-	verb.update({'frequency': 1.0*verb['useCount']/total})
-	del verb['useCount'];
 	
-# Save a new verbs.plist with the frequency of use
-plistlib.writePlist(verbs,'verbs-freq.plist')
-
-# Save also a csv copy to statistical analysis
-verbsPlistToCsv('verbs-freq.plist','verbs-freq.csv',header=True)
-
-# Compute log distribution and normalize it
-for verb in verbs:
-	verb['frequency'] = math.log(verb['frequency'])
+	# Read verbs.plist from "A list of verbs" and compute use count for all tenses
+	# We assume that the verbs with multiple forms are in the form "do/does"
+	verbs = plistlib.readPlist('verbs-edited.plist')
+	for verb in verbs:
+		# We join all the verbal forms to construct a string like this:
+		# was/were/be/am/are/is/been
+		testValues = '/'.join([verb['simple'],verb['past'],verb['participle']])
+		count = 0;
+		# Now we look for each word and add the use count
+		for tense in testValues.split('/'):
+			count += freq50K.get(tense,0);
+		verb.update({'useCount':count})
+		
+	# Compute frequencies
+	total = reduce(lambda x,y: x+y['useCount'] ,verbs,0)
+	for verb in verbs:
+		verb.update({'frequency': 1.0*verb['useCount']/total})
+		del verb['useCount'];
+		del verb['level'];
+		
+	# Save a new verbs.plist with the frequency of use
+	plistlib.writePlist(verbs,'verbs-freq.plist')
 	
-minFreq = reduce(lambda x,y: min(x,y['frequency']),verbs,1)
-for verb in verbs:
-	verb['frequency'] = 1.0-verb['frequency']/minFreq
+	# Save also a csv copy to statistical analysis
+	verbsPlistToCsv('verbs-freq.plist','verbs-freq.csv',header=True)
+	
+	# Compute log distribution and normalize it
+	for verb in verbs:
+		verb['frequency'] = math.log(verb['frequency'])
+		
+	minFreq = reduce(lambda x,y: min(x,y['frequency']),verbs,1)
+	for verb in verbs:
+		verb['frequency'] = 1.0-verb['frequency']/minFreq
+	
+	total = reduce(lambda x,y: x+y['frequency'] ,verbs,0)
+	for verb in verbs:
+		verb['frequency'] = 1.0*verb['frequency']/total
 
-total = reduce(lambda x,y: x+y['frequency'] ,verbs,0)
-for verb in verbs:
-	verb['frequency'] = 1.0*verb['frequency']/total
+	# Load and append hint group number
+	trimVerbsHints()
+	hints = loadHints()
+	for verb in verbs:
+		if hints.has_key(verb['simple']):
+			verb.update({'hint':hints[verb['simple']]})
+		else:
+			verb.update({'hint':0})
+		
+	# Save a new verbs.plist with the frequency of use
+	plistlib.writePlist(verbs,'verbs-freq-log.plist')
+	
+	# Save also a csv copy to statistical analysis
+	verbsPlistToCsv('verbs-freq-log.plist','verbs-freq-log.csv',header=True)
 
-# Save a new verbs.plist with the frequency of use
-plistlib.writePlist(verbs,'verbs-freq-log.plist')
-
-# Save also a csv copy to statistical analysis
-verbsPlistToCsv('verbs-freq-log.plist','verbs-freq-log.csv',header=True)
+computeVerbsFrequency()

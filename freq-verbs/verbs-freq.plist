@@ -5,8 +5,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>4.7571718324970946e-05</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>arisen</string>
 		<key>past</key>
@@ -19,8 +17,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.00023508687438594442</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>awoken</string>
 		<key>past</key>
@@ -33,8 +29,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.22564934688442861</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>been</string>
 		<key>past</key>
@@ -47,8 +41,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0022502950040475555</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>born/born</string>
 		<key>past</key>
@@ -61,8 +53,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.002086480858662162</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>beaten</string>
 		<key>past</key>
@@ -75,8 +65,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0028380687556703536</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>become</string>
 		<key>past</key>
@@ -89,8 +77,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0008971879005378885</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>begun</string>
 		<key>past</key>
@@ -103,8 +89,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.00022863838938113267</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>bent</string>
 		<key>past</key>
@@ -117,8 +101,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.003180800077110305</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>bet</string>
 		<key>past</key>
@@ -131,8 +113,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.00037039192817111746</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>bound</string>
 		<key>past</key>
@@ -145,8 +125,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0002733818248092564</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>bid</string>
 		<key>past</key>
@@ -159,8 +137,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.002590650567854155</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>bitten</string>
 		<key>past</key>
@@ -173,8 +149,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.00011318788153182743</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>bled</string>
 		<key>past</key>
@@ -187,8 +161,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0009849778016560275</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>blown</string>
 		<key>past</key>
@@ -201,8 +173,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0027109091566281007</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>broken</string>
 		<key>past</key>
@@ -215,8 +185,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.00011658182100804414</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>bred</string>
 		<key>past</key>
@@ -229,8 +197,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.005280969824993208</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>brought</string>
 		<key>past</key>
@@ -243,8 +209,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.00019701818659438028</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>broadcast</string>
 		<key>past</key>
@@ -257,8 +221,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0011027475014807476</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>built</string>
 		<key>past</key>
@@ -271,8 +233,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0010325495199809984</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>burnt/burned</string>
 		<key>past</key>
@@ -285,8 +245,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.00022484849029935733</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>burst</string>
 		<key>past</key>
@@ -299,8 +257,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.002663959660540436</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>bought</string>
 		<key>past</key>
@@ -313,8 +269,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0005645818318686504</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>cast</string>
 		<key>past</key>
@@ -327,8 +281,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0023839030880946203</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>caught</string>
 		<key>past</key>
@@ -341,8 +293,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.055207912449484746</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>come</string>
 		<key>past</key>
@@ -355,8 +305,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0012177454840665571</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>cost</string>
 		<key>past</key>
@@ -369,8 +317,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.005199345580590196</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>cut</string>
 		<key>past</key>
@@ -383,8 +329,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0007646545639916258</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>chosen</string>
 		<key>past</key>
@@ -397,8 +341,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>3.0036364364517923e-05</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>clung</string>
 		<key>past</key>
@@ -411,8 +353,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>9.316363862214882e-05</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>crept</string>
 		<key>past</key>
@@ -425,8 +365,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.001650755595573873</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>dealt</string>
 		<key>past</key>
@@ -439,8 +377,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.00042780607097711685</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>dug</string>
 		<key>past</key>
@@ -453,8 +389,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.07028079362296874</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>done</string>
 		<key>past</key>
@@ -467,8 +401,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0005250424369707257</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>drawn</string>
 		<key>past</key>
@@ -481,8 +413,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0014294141760666063</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>dreamt/dreamed</string>
 		<key>past</key>
@@ -495,8 +425,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0028591111804228972</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>drunk</string>
 		<key>past</key>
@@ -509,8 +437,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0013668525583883449</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>driven</string>
 		<key>past</key>
@@ -523,8 +449,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0025555798599332493</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>eaten</string>
 		<key>past</key>
@@ -537,8 +461,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0017037010514028537</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>fallen</string>
 		<key>past</key>
@@ -551,8 +473,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0006935515319648856</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>fed</string>
 		<key>past</key>
@@ -565,8 +485,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.005933567820611745</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>felt</string>
 		<key>past</key>
@@ -579,8 +497,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.002137107122515728</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>fought</string>
 		<key>past</key>
@@ -593,8 +509,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.011380670982965762</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>found</string>
 		<key>past</key>
@@ -607,8 +521,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.00017818182250137752</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>fled</string>
 		<key>past</key>
@@ -621,8 +533,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0008668687078836858</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>flown</string>
 		<key>past</key>
@@ -635,8 +545,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.00019181414606418132</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>forbidden</string>
 		<key>past</key>
@@ -649,8 +557,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.003241381896760773</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>forgotten</string>
 		<key>past</key>
@@ -663,8 +569,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0009127434564705485</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>forgiven</string>
 		<key>past</key>
@@ -677,8 +581,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.00034380606894075317</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>frozen</string>
 		<key>past</key>
@@ -691,8 +593,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0717034199200829</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>got/gotten</string>
 		<key>past</key>
@@ -705,8 +605,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.01148401644001656</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>given</string>
 		<key>past</key>
@@ -719,8 +617,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0364266998729705</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>gone</string>
 		<key>past</key>
@@ -733,8 +629,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0010069818425934992</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>grown</string>
 		<key>past</key>
@@ -747,8 +641,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0012079030595855288</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>ground</string>
 		<key>past</key>
@@ -761,8 +653,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0014270949840911916</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>hung</string>
 		<key>past</key>
@@ -775,8 +665,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.06989688250255069</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>had</string>
 		<key>past</key>
@@ -789,8 +677,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.009474125482201022</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>heard</string>
 		<key>past</key>
@@ -803,8 +689,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0009292040629301995</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>hidden</string>
 		<key>past</key>
@@ -817,8 +701,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.005468994071975614</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>hit</string>
 		<key>past</key>
@@ -831,8 +713,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.00369011726117456</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>held</string>
 		<key>past</key>
@@ -845,8 +725,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.004967878908312216</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>hurt</string>
 		<key>past</key>
@@ -859,8 +737,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.006503975915247901</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>kept</string>
 		<key>past</key>
@@ -873,8 +749,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.041022829277321114</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>known</string>
 		<key>past</key>
@@ -887,8 +761,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>6.103434491396392e-05</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>knelt</string>
 		<key>past</key>
@@ -901,8 +773,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>4.530909200749314e-05</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>knit</string>
 		<key>past</key>
@@ -915,8 +785,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.000904993961333187</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>laid</string>
 		<key>past</key>
@@ -929,8 +797,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0010016081050894894</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>led</string>
 		<key>past</key>
@@ -943,8 +809,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>8.484848690541787e-05</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>leant</string>
 		<key>past</key>
@@ -957,8 +821,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>5.741414280599942e-05</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>leapt</string>
 		<key>past</key>
@@ -971,8 +833,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0018394586304515223</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>learnt/learned</string>
 		<key>past</key>
@@ -985,8 +845,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.012763418491234387</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>left</string>
 		<key>past</key>
@@ -999,8 +857,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0002150626314762658</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>lent</string>
 		<key>past</key>
@@ -1013,8 +869,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.02802562492183333</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>let</string>
 		<key>past</key>
@@ -1027,8 +881,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0013889131649837535</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>lain</string>
 		<key>past</key>
@@ -1041,8 +893,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0015140929659982134</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>lit</string>
 		<key>past</key>
@@ -1055,8 +905,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.005533026396760236</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>lost</string>
 		<key>past</key>
@@ -1069,8 +917,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.017740347904816513</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>made</string>
 		<key>past</key>
@@ -1083,8 +929,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.008951458802863648</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>meant</string>
 		<key>past</key>
@@ -1097,8 +941,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.005349979927676281</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>met</string>
 		<key>past</key>
@@ -1111,8 +953,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0008095676963935603</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>mistaken</string>
 		<key>past</key>
@@ -1125,8 +965,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.00018938182277289267</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>overcome</string>
 		<key>past</key>
@@ -1139,8 +977,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.003447959679546497</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>paid</string>
 		<key>past</key>
@@ -1153,8 +989,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.017100024656970296</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>put</string>
 		<key>past</key>
@@ -1167,8 +1001,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.005324751644236404</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>read</string>
 		<key>past</key>
@@ -1181,8 +1013,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0009398384066223452</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>ridden</string>
 		<key>past</key>
@@ -1195,8 +1025,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0007487596141113442</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>rung</string>
 		<key>past</key>
@@ -1209,8 +1037,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0006240889040183169</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>risen</string>
 		<key>past</key>
@@ -1223,8 +1049,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.00584385468712375</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>run</string>
 		<key>past</key>
@@ -1237,8 +1061,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.028010748153795915</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>said</string>
 		<key>past</key>
@@ -1251,8 +1073,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.025064299597518373</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>seen</string>
 		<key>past</key>
@@ -1265,8 +1085,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0002759272794164189</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>sought</string>
 		<key>past</key>
@@ -1279,8 +1097,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.001562795997481923</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>sold</string>
 		<key>past</key>
@@ -1293,8 +1109,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0035634101873958024</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>sent</string>
 		<key>past</key>
@@ -1307,8 +1121,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0048652122391566605</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>set</string>
 		<key>past</key>
@@ -1321,8 +1133,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>7.772121400536276e-05</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>sewed/sewn</string>
 		<key>past</key>
@@ -1335,8 +1145,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0003633777865869362</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>shaken</string>
 		<key>past</key>
@@ -1349,8 +1157,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>7.212121386960518e-05</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>shaken</string>
 		<key>past</key>
@@ -1363,8 +1169,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.00018909899448320795</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>shone</string>
 		<key>past</key>
@@ -1377,8 +1181,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0043931718236728525</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>shot</string>
 		<key>past</key>
@@ -1391,8 +1193,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.003940363731887606</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>shown</string>
 		<key>past</key>
@@ -1405,8 +1205,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>7.336565834421798e-05</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>shrunk</string>
 		<key>past</key>
@@ -1419,8 +1217,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.006356678941980096</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>shut</string>
 		<key>past</key>
@@ -1433,8 +1229,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.000976210124675801</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>sung</string>
 		<key>past</key>
@@ -1447,8 +1241,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.00017608889315771055</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>sunk</string>
 		<key>past</key>
@@ -1461,8 +1253,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.002759272794164189</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>sat</string>
 		<key>past</key>
@@ -1475,8 +1265,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0024744081407937326</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>slept</string>
 		<key>past</key>
@@ -1489,8 +1277,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.00010781414402781763</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>slid</string>
 		<key>past</key>
@@ -1503,8 +1289,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0006209777928317849</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>smelt</string>
 		<key>past</key>
@@ -1517,8 +1301,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>3.6937374632825246e-05</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>sowed/sown</string>
 		<key>past</key>
@@ -1531,8 +1313,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0022546505597087004</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>spoken</string>
 		<key>past</key>
@@ -1545,8 +1325,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0003507070792090605</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>sped</string>
 		<key>past</key>
@@ -1559,8 +1337,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0001754101052624672</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>spelt</string>
 		<key>past</key>
@@ -1573,8 +1349,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0015934545840837475</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>spent</string>
 		<key>past</key>
@@ -1587,8 +1361,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0007096727444769151</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>split/spilled</string>
 		<key>past</key>
@@ -1601,8 +1373,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.00012099394232712587</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>spun</string>
 		<key>past</key>
@@ -1615,8 +1385,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.00018038788316091837</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>spat</string>
 		<key>past</key>
@@ -1629,8 +1397,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0008702060817019656</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>split</string>
 		<key>past</key>
@@ -1643,8 +1409,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.000265519198356021</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>spoilt/spoiled</string>
 		<key>past</key>
@@ -1657,8 +1421,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0007733091096559784</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>spread</string>
 		<key>past</key>
@@ -1671,8 +1433,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.00031218586615400077</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>sprung</string>
 		<key>past</key>
@@ -1685,8 +1445,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0021615434867444886</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>stood</string>
 		<key>past</key>
@@ -1699,8 +1457,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0010308525502428902</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>stolen</string>
 		<key>past</key>
@@ -1713,8 +1469,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0016015434731687307</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>stuck</string>
 		<key>past</key>
@@ -1727,8 +1481,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>6.697373899734316e-05</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>stunk</string>
 		<key>past</key>
@@ -1741,8 +1493,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.00011437576034850328</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>stunk</string>
 		<key>past</key>
@@ -1755,8 +1505,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>1.9684848962056945e-05</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>stridden</string>
 		<key>past</key>
@@ -1769,8 +1517,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0006100606208499544</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>struck</string>
 		<key>past</key>
@@ -1783,8 +1529,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0008578747682717116</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>sworn</string>
 		<key>past</key>
@@ -1797,8 +1541,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0004345939499295503</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>sweat</string>
 		<key>past</key>
@@ -1811,8 +1553,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.00015380202393055413</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>swept</string>
 		<key>past</key>
@@ -1825,8 +1565,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.00015957172104012253</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>swollen</string>
 		<key>past</key>
@@ -1839,8 +1577,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0002795474815243834</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>swum</string>
 		<key>past</key>
@@ -1853,8 +1589,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.00019724444922612807</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>swung</string>
 		<key>past</key>
@@ -1867,8 +1601,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.01762766911420612</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>taken</string>
 		<key>past</key>
@@ -1881,8 +1613,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0013351757899436555</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>taught</string>
 		<key>past</key>
@@ -1895,8 +1625,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.00036592324119409875</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>torn</string>
 		<key>past</key>
@@ -1909,8 +1637,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.021859911641048363</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>told</string>
 		<key>past</key>
@@ -1923,8 +1649,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.02819549159261798</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>thought</string>
 		<key>past</key>
@@ -1937,8 +1661,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0013227879108554646</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>thrown</string>
 		<key>past</key>
@@ -1951,8 +1673,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>9.672727507217636e-05</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>thrust</string>
 		<key>past</key>
@@ -1965,8 +1685,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>2.4945455150192854e-05</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>trodden</string>
 		<key>past</key>
@@ -1979,8 +1697,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.004582101121182249</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>understood</string>
 		<key>past</key>
@@ -1993,8 +1709,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>1.8496970145381093e-05</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>undergone</string>
 		<key>past</key>
@@ -2007,8 +1721,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>1.90060610668136e-05</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>undertaken</string>
 		<key>past</key>
@@ -2021,8 +1733,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0010896242688393763</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>woken</string>
 		<key>past</key>
@@ -2035,8 +1745,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0009265454770071631</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>worn</string>
 		<key>past</key>
@@ -2049,8 +1757,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>3.0036364364517923e-05</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>woven</string>
 		<key>past</key>
@@ -2063,8 +1769,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>8.592323440621983e-05</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>wept</string>
 		<key>past</key>
@@ -2077,8 +1781,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0009027879006736461</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>wet</string>
 		<key>past</key>
@@ -2091,8 +1793,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.002281010156307317</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>won</string>
 		<key>past</key>
@@ -2105,8 +1805,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.0008806707284203005</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>wound</string>
 		<key>past</key>
@@ -2119,8 +1817,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>8.863838598719319e-05</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>withdrawn</string>
 		<key>past</key>
@@ -2133,8 +1829,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>1.5894949880281613e-05</real>
-		<key>level</key>
-		<integer>2</integer>
 		<key>participle</key>
 		<string>wrung</string>
 		<key>past</key>
@@ -2147,8 +1841,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>0.002052428332584121</real>
-		<key>level</key>
-		<integer>1</integer>
 		<key>participle</key>
 		<string>written</string>
 		<key>past</key>
@@ -2161,8 +1853,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>3.507070792090605e-06</real>
-		<key>level</key>
-		<integer>3</integer>
 		<key>participle</key>
 		<string>waylaid</string>
 		<key>past</key>
@@ -2175,8 +1865,6 @@
 	<dict>
 		<key>frequency</key>
 		<real>9.842424481028472e-06</real>
-		<key>level</key>
-		<integer>3</integer>
 		<key>participle</key>
 		<string>vexed/vext</string>
 		<key>past</key>

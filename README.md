@@ -3,6 +3,8 @@ Compute frequency of use of irregular engish verbs. Data set for ["A list of ver
 
 The fequency word data comes from <http://invokeit.wordpress.com/frequency-word-lists/>
 
+As a study help I've added the hint parameter based on the classification proposed in this [article][4]
+
 **Rafa Barberá**  
   <http://github.com/rbarbera>  
   <http://twitter.com/rbarbera>
@@ -43,3 +45,4 @@ The number of verbs in each bin are constant. But natural languages are diferent
 [1]:https://github.com/rbarbera/irregularverbs
 [2]:https://github.com/jdunck/python-unicodecsv
 [3]:http://www.R-project.org
+[4]:http://www.whitesmoke.com/english-irregular-verbs
