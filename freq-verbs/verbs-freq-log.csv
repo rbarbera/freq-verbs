@@ -31,7 +31,7 @@ hint;simple;participle;past;frequency;translation
 5;creep;crept;crept;0.00376825764566;arrastrarse
 6;deal;dealt;dealt;0.00707122995525;tratar
 16;dig;dug;dug;0.00551970404424;cavar
-0;do/does;done;did;0.011381461879;hacer
+21;do/does;done;did;0.011381461879;hacer
 14;draw;drawn;drew;0.00575503123001;dibujar
 6;dream;dreamt/dreamed;dreamt/dreamed;0.00690580916092;soñar
 18;drink;drunk;drank;0.00770235410115;beber
@@ -50,7 +50,7 @@ hint;simple;participle;past;frequency;translation
 10;freeze;frozen;froze;0.00526853992975;helar
 12;get;got/gotten;got;0.0114044878602;obtener
 12;give;given;gave;0.00929998621365;dar
-0;go/goes;gone;went;0.0106263381637;ir
+21;go/goes;gone;went;0.0106263381637;ir
 14;grow;grown;grew;0.00650330368158;crecer
 17;grind;ground;ground;0.00671234061325;moler
 16;hang;hung;hung;0.0069039434085;colgar

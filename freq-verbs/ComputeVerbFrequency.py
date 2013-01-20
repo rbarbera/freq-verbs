@@ -82,6 +82,14 @@ def loadHints():
 			tableHints.update({verb:int(hint)})
 	return tableHints
 	
+def hintsDescriptionToPlist(plistPath):
+	inFile = open('hints-description.txt','r');
+	hints = []
+	for line in inFile:
+		items = line.split(':')
+		hints.append(items[1].strip())
+	plistlib.writePlist(hints,plistPath);
+	
 		
 def computeVerbsFrequency():
 	# Read 50K word list with use count
@@ -134,15 +142,21 @@ def computeVerbsFrequency():
 	trimVerbsHints()
 	hints = loadHints()
 	for verb in verbs:
-		if hints.has_key(verb['simple']):
-			verb.update({'hint':hints[verb['simple']]})
+		key = verb['simple']
+		if hints.has_key(key):
+			verb.update({'hint':hints[key]})
 		else:
-			verb.update({'hint':0})
+			key = key.split('/')[0]
+		 	if hints.has_key(key):
+				verb.update({'hint':hints[key]})
+			else:
+				verb.update({'hint':0})
 		
 	# Save a new verbs.plist with the frequency of use
 	plistlib.writePlist(verbs,'verbs-freq-log.plist')
 	
 	# Save also a csv copy to statistical analysis
 	verbsPlistToCsv('verbs-freq-log.plist','verbs-freq-log.csv',header=True)
-
+	
+# hintsDescriptionToPlist('hints.plist')
 computeVerbsFrequency()
