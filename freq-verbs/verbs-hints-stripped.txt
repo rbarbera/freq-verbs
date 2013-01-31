@@ -17,21 +17,29 @@ smell
 spell
 spill
 spoil
+vex
 4
 lay (table)
 pay
 say
+waylay
 5
+bleed
+breed
 creep
 feed
 feel
+flee
 keep
 kneel
+lead
+leave
 meet
 sleep
+speed
+spit
 sweep
 weep
-leave
 6
 deal
 dream
@@ -53,20 +61,25 @@ catch
 teach
 9
 bet
-bid (to offer)
+bid
 broadcast
 burst
+cast
 cost
 cut
-fit
 hit
 hurt
+knit
 let
+overcome
 put
 set
 shut
+split
 spread
-quit
+sweat
+thrust
+wet
 10
 break
 choose
@@ -76,6 +89,8 @@ steal
 awake
 wake
 weave
+tread
+stride
 11
 arise
 rise
@@ -94,10 +109,13 @@ forget
 get
 shake
 take
+undertake
 see
 beat
 fall
 lie (to rest)
+shear
+mistake
 13
 bear
 swear
@@ -110,6 +128,7 @@ know
 throw
 fly
 draw
+withdraw
 15
 show
 sow
@@ -130,6 +149,8 @@ hang (a picture)
 slide
 light
 shoot
+cling
+wring
 17
 bind
 find
@@ -141,7 +162,7 @@ feed
 flee
 lead
 speed
-18
+19
 begin
 drink
 ring
@@ -151,6 +172,7 @@ sink
 spin
 spring
 swim
+stink
 20
 come
 become
@@ -158,6 +180,7 @@ run
 21
 be/am/are/is
 go
+undergo
 dive (head first)
 dive (scuba-diving)
 do
